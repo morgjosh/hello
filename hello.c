@@ -12,7 +12,7 @@
 
      printf("Joshua Morgado!\n");
      printf("Cailen Schlake!\n");
-     printf("Computer Science");
+     printf("Computer Science\n");
 
      return 0;
  }
